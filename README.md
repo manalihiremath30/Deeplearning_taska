@@ -1,1 +1,1 @@
-# Deeplearning_taska
+# Deeplearning_tasks
